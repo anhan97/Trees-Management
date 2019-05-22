@@ -1,0 +1,9 @@
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\bin\Debug\netcoreapp2.1\GMS.Models.deps.json
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\bin\Debug\netcoreapp2.1\GMS.Models.dll
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\bin\Debug\netcoreapp2.1\GMS.Models.pdb
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.csproj.CoreCompileInputs.cache
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.AssemblyInfoInputs.cache
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.AssemblyInfo.cs
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.dll
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.pdb
+F:\GMS-TEAMFOUNDATION\GMS\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.csprojAssemblyReference.cache
